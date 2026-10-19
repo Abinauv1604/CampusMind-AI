@@ -1,0 +1,6 @@
+{
+  "name": "CampusMind AI",
+  "description": "Smart College Hackathon Dashboard with Campus AI Document Assistant, Study Notes Summarizer, and College Notice Finder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
